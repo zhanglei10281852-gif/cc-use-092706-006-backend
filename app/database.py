@@ -311,6 +311,8 @@ PERMISSIONS = [
     ("announcements.write", "维护公告", "announcements", "write"),
     ("audit.read", "查看审计", "audit", "read"),
     ("jobs.run", "执行后台任务", "jobs", "run"),
+    ("windows.read", "查看维护窗口", "windows", "read"),
+    ("windows.write", "编排维护窗口", "windows", "write"),
 ]
 
 
